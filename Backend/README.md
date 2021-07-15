@@ -14,6 +14,6 @@
 # End Points
 
 - Use each file name for each end point
-- example http://localhost:80/Backend/create_product.php
+- example http://localhost:80/merllon_mall/create_product.php
 
 # Coding is fun :)
