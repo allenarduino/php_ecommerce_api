@@ -20,7 +20,16 @@
 
 # End Points
 
-- Use each file name for each end point
-- example http://localhost:80/Backend/create_product.php
+### Fetch all products:
+
+```
+GET /php_ecommerce_rest_api/api/product/fetch_products.php/
+Host:  http://localhost:80
+```
+
+<img
+		width="100%"
+		alt="Capture 1"
+		src="https://github.com/allenarduino/php_ecommerce_api/blob/main/screenshots/screenshot2.png">
 
 # Coding is fun :)
