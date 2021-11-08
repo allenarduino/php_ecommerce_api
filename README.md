@@ -23,7 +23,7 @@
 ### Fetch all products:
 
 ```
-GET /php_ecommerce_rest_api/api/product/fetch_products.php/
+GET /php_ecommerce_rest_api/api/product/fetch_products.php
 Host:  http://localhost:80
 ```
 
