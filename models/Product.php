@@ -46,7 +46,7 @@
     echo json_encode($products_arr);
 
   } else {
-    // No Posts
+    // No Products
     echo json_encode(
       array('message' => 'No Products Found')
     );
