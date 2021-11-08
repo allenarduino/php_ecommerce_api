@@ -43,7 +43,7 @@
     }
 
     // Turn to JSON & output
-    echo json_encode($product_arr);
+    echo json_encode($products_arr);
 
   } else {
     // No Posts
